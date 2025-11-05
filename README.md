@@ -1,7 +1,7 @@
 
   # Web App UI Design
 
-  This is a code bundle for Web App UI Design. The original project is available at https://www.figma.com/design/F3wGNGfY6YECf31P6EuBCC/Web-App-UI-Design.
+  This is a code bundle for Web App UI Design.
 
   ## Running the code
 
